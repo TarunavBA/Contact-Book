@@ -3,7 +3,7 @@ A command line utility to save and show the saved contacts.
 
 #
 
-## Want to contribute?
+## Wannna contribute?
 read [contributing.md](contributing.md)
 
 ## Current contributers: read [contributers.md](contributers.md)
