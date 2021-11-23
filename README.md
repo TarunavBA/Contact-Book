@@ -13,4 +13,4 @@ Checkout the [SECURITY.md](SECURITY.md)
 
 ### clone via git bash `https://github.com/TarunavBA/Contact-Book.git`
 ### clone via ssh `git@github.com:TarunavBA/Contact-Book.git`
-### clone via [git cli](https://cli.github.com) `gh repo clone TarunavBA/Contact-Book`
+### clone via [github cli](https://cli.github.com) `gh repo clone TarunavBA/Contact-Book`
